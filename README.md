@@ -20,9 +20,25 @@ Dados Balancete Receita do Estado de São Paulo
 ## Formulaçao de Perguntas com base nos Dados Abertos do Estado de São Paulo.
 site: https://dadosabertos.sp.gov.br/
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9ac0e1e3-99f7-434a-87a8-efd73bd0d88d" />
+(colocar a planilha aqui)
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6ef7aaf0-7ee0-4098-9ed5-a481a92d4172" />
+Planilha de Base
+<img width="918" height="728" alt="Planilha 1" src="https://github.com/user-attachments/assets/f52a2fdd-bad4-4cf2-b928-a95de7e8a33b" />
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/41478b9a-a246-4bba-a6b4-b10c4853cafb" />
+Pergunta 1:
+<img width="968" height="224" alt="Planilha 2 - Pergunta 1" src="https://github.com/user-attachments/assets/62920fe8-6952-4c00-b746-5d3e0dc3c985" />
+
+Pergunta 2:
+<img width="976" height="272" alt="Planilha 2 - Pergunta 2" src="https://github.com/user-attachments/assets/3bece7d1-ec4a-4f76-910c-94cc33e63235" />
+
+Pergunta 3:
+<img width="938" height="198" alt="Planilha 2 - Pergunta 3" src="https://github.com/user-attachments/assets/56dddf48-a622-4969-b222-0aaa384025ea" />
+
+Pergunta 4:
+<img width="868" height="152" alt="Planilha 2 - Pergunta 4" src="https://github.com/user-attachments/assets/a1e7df08-f6eb-4e73-89b9-0f447e3684fb" />
+
+
+
+
+
 
