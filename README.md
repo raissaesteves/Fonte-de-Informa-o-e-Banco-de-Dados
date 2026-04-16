@@ -13,7 +13,7 @@ Dados Balancete Receita do Estado de São Paulo
 
 [Balancete Receita.xlsx](https://github.com/user-attachments/files/26799219/Balancete.Receita.xlsx)
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/af5b2d6b-0481-44c9-baf5-f3773726a3af" />
+<img width="1470" height="726" alt="Planilha 1" src="https://github.com/user-attachments/assets/dd2ed1e6-30f5-4958-a4b4-43f2f0d82f5d" />
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b16cc43d-4f05-466c-8522-19fdb61f3b6c" />
+<img width="1576" height="716" alt="Planilha 2" src="https://github.com/user-attachments/assets/9053ec30-2489-420e-84d7-94d1c9ddae40" />
 
