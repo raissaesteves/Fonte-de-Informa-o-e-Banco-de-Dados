@@ -17,3 +17,12 @@ Dados Balancete Receita do Estado de São Paulo
 
 <img width="1576" height="716" alt="Planilha 2" src="https://github.com/user-attachments/assets/9053ec30-2489-420e-84d7-94d1c9ddae40" />
 
+## Formulaçao de Perguntas com base nos Dados Abertos do Estado de São Paulo.
+site: https://dadosabertos.sp.gov.br/
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9ac0e1e3-99f7-434a-87a8-efd73bd0d88d" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6ef7aaf0-7ee0-4098-9ed5-a481a92d4172" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/41478b9a-a246-4bba-a6b4-b10c4853cafb" />
+
