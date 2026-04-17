@@ -23,26 +23,65 @@ site: https://dadosabertos.sp.gov.br/
 (colocar a planilha aqui)
 
 Planilha de Base:
+
 <img width="918" height="728" alt="Planilha 1" src="https://github.com/user-attachments/assets/f52a2fdd-bad4-4cf2-b928-a95de7e8a33b" />
 
-###Pergunta 1:
+### Pergunta 1:
+
 <img width="968" height="224" alt="Planilha 2 - Pergunta 1" src="https://github.com/user-attachments/assets/62920fe8-6952-4c00-b746-5d3e0dc3c985" />
 
-###Pergunta 2:
+### Pergunta 2:
+
 <img width="976" height="272" alt="Planilha 2 - Pergunta 2" src="https://github.com/user-attachments/assets/3bece7d1-ec4a-4f76-910c-94cc33e63235" />
 
-###Pergunta 3:
+### Pergunta 3:
+
 <img width="938" height="198" alt="Planilha 2 - Pergunta 3" src="https://github.com/user-attachments/assets/56dddf48-a622-4969-b222-0aaa384025ea" />
 
-###Pergunta 4:
+### Pergunta 4:
+
 <img width="868" height="152" alt="Planilha 2 - Pergunta 4" src="https://github.com/user-attachments/assets/a1e7df08-f6eb-4e73-89b9-0f447e3684fb" />
 
 
-##Certificado Curso Digital "Criando Trabalhos Acadêmicos com Ferramentas Digitais"
+## Certificado Curso Digital "Criando Trabalhos Acadêmicos com Ferramentas Digitais"
 
 [Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4028209.pdf](https://github.com/user-attachments/files/26804305/Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4028209.pdf)
 
 <img width="1233" height="841" alt="image" src="https://github.com/user-attachments/assets/94da5db4-99ea-460b-8166-26aa6c63c463" />
+
+## Formulação de Perguntas sobre a Taxa de Mortalidade no Estado de São Paulo
+
+[mortalidade_geral.xlsx](https://github.com/user-attachments/files/26804375/mortalidade_geral.xlsx)
+
+### Planilha de Base:
+
+<img width="1571" height="868" alt="image" src="https://github.com/user-attachments/assets/4e6f053d-91ae-4127-ab0f-0f61edb50b66" />
+
+### Pergunta 1:
+
+<img width="999" height="735" alt="image" src="https://github.com/user-attachments/assets/497e919c-6ae2-4060-9351-5d96c36771f8" />
+
+### Pergunta 2:
+
+<img width="943" height="631" alt="image" src="https://github.com/user-attachments/assets/5a12fdd8-2e24-4607-8025-ee8ebe221afb" />
+
+### Pergunta 3:
+
+<img width="1091" height="697" alt="image" src="https://github.com/user-attachments/assets/46cbf152-5ca5-49c9-bc24-364b5c052487" />
+
+### Pergunta 4:
+
+<img width="1050" height="666" alt="image" src="https://github.com/user-attachments/assets/e7662664-6397-48d1-aeef-afcc9c71ffea" />
+
+### Pergunta 5:
+
+<img width="1087" height="688" alt="image" src="https://github.com/user-attachments/assets/c1b7b02e-2b36-4936-9e7e-f34e9706ac74" />
+
+
+
+
+
+
 
 
 
