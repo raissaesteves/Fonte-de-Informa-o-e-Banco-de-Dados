@@ -22,20 +22,28 @@ site: https://dadosabertos.sp.gov.br/
 
 (colocar a planilha aqui)
 
-Planilha de Base
+Planilha de Base:
 <img width="918" height="728" alt="Planilha 1" src="https://github.com/user-attachments/assets/f52a2fdd-bad4-4cf2-b928-a95de7e8a33b" />
 
-Pergunta 1:
+###Pergunta 1:
 <img width="968" height="224" alt="Planilha 2 - Pergunta 1" src="https://github.com/user-attachments/assets/62920fe8-6952-4c00-b746-5d3e0dc3c985" />
 
-Pergunta 2:
+###Pergunta 2:
 <img width="976" height="272" alt="Planilha 2 - Pergunta 2" src="https://github.com/user-attachments/assets/3bece7d1-ec4a-4f76-910c-94cc33e63235" />
 
-Pergunta 3:
+###Pergunta 3:
 <img width="938" height="198" alt="Planilha 2 - Pergunta 3" src="https://github.com/user-attachments/assets/56dddf48-a622-4969-b222-0aaa384025ea" />
 
-Pergunta 4:
+###Pergunta 4:
 <img width="868" height="152" alt="Planilha 2 - Pergunta 4" src="https://github.com/user-attachments/assets/a1e7df08-f6eb-4e73-89b9-0f447e3684fb" />
+
+
+##Certificado Curso Digital "Criando Trabalhos Acadêmicos com Ferramentas Digitais"
+
+[Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4028209.pdf](https://github.com/user-attachments/files/26804305/Criando_Trabalhos_Academicos_com_Ferramentas_Digitais-Certificado_digital_4028209.pdf)
+
+<img width="1233" height="841" alt="image" src="https://github.com/user-attachments/assets/94da5db4-99ea-460b-8166-26aa6c63c463" />
+
 
 
 
