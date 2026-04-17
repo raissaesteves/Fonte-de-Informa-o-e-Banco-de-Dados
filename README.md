@@ -7,9 +7,13 @@ Apresentação confeccionada utilizando Software Canva
 
 <img width="713" height="403" alt="image" src="https://github.com/user-attachments/assets/afdbecfd-222b-4b55-b8f0-693d9433f230" />
 
+## Atividade de Introdução para Projeto Integrador
+
+<img width="944" height="472" alt="image" src="https://github.com/user-attachments/assets/e1bc3427-e365-464c-82f5-aae39a8b96e5" />
+
 
 ## Introdução ao Excel
-Dados Balancete Receita do Estado de São Paulo
+Dados Balancete Receita de São José dos Campos
 
 [Balancete Receita.xlsx](https://github.com/user-attachments/files/26799219/Balancete.Receita.xlsx)
 
@@ -22,7 +26,7 @@ site: https://dadosabertos.sp.gov.br/
 
 (colocar a planilha aqui)
 
-Planilha de Base:
+### Planilha de Base:
 
 <img width="918" height="728" alt="Planilha 1" src="https://github.com/user-attachments/assets/f52a2fdd-bad4-4cf2-b928-a95de7e8a33b" />
 
