@@ -82,6 +82,21 @@ site: https://dadosabertos.sp.gov.br/
 <img width="1087" height="688" alt="image" src="https://github.com/user-attachments/assets/c1b7b02e-2b36-4936-9e7e-f34e9706ac74" />
 
 
+## Introdução ao Power BI
+
+## Despesas da Prefeitura de São José dos Campos
+
+[Despesas.zip](https://github.com/user-attachments/files/27031712/Despesas.zip)
+
+
+### Modo de Exibição de Tabela
+
+<img width="1910" height="986" alt="image" src="https://github.com/user-attachments/assets/064f42b1-579d-461d-87ea-67b6802b2c25" />
+
+### Exibição de Relatório
+
+<img width="1299" height="674" alt="image" src="https://github.com/user-attachments/assets/83f78bde-3e7d-4c63-a306-9b09906d89fc" />
+
 
 
 
