@@ -1,6 +1,4 @@
-<meta charset="UTF-8">
-
-<title> Fonte de Informação e Banco de Dados </title>
+# Fonte de Informação e Banco de Dados
 Disciplina ministrada no 1º semestre do curso superior de tecnologia GPI
 
 ## Apresentação em equipe utilizando Software de Design gráfico
