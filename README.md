@@ -101,14 +101,11 @@ Exibição de Relatório
 
 <img width="1299" height="674" alt="image" src="https://github.com/user-attachments/assets/83f78bde-3e7d-4c63-a306-9b09906d89fc" />
 
+## Empregos Formais no Estados de São Paulo no Power BI
+
+[Dados_emprego_formal_de_sp.zip](https://github.com/user-attachments/files/27543904/Dados_emprego_formal_de_sp.zip)
 
 
-
-
-
-
-
-
-
+<img width="1331" height="749" alt="image" src="https://github.com/user-attachments/assets/a84fdecc-9e97-4908-a697-076ea6f4de51" />
 
 
