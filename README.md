@@ -70,11 +70,11 @@ site: https://dadosabertos.sp.gov.br/
 
 ### Pergunta 2:
 
-<img width="943" height="631" alt="image" src="https://github.com/user-attachments/assets/5a12fdd8-2e24-4607-8025-ee8ebe221afb" />
+<img width="785" height="740" alt="image" src="https://github.com/user-attachments/assets/527561f1-35ce-4986-81a8-799a78103709" />
 
 ### Pergunta 3:
 
-<img width="1091" height="697" alt="image" src="https://github.com/user-attachments/assets/46cbf152-5ca5-49c9-bc24-364b5c052487" />
+<img width="828" height="705" alt="image" src="https://github.com/user-attachments/assets/4846ff4d-9c00-4778-b7a4-accab4b8b723" />
 
 ### Pergunta 4:
 
