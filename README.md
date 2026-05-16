@@ -108,4 +108,11 @@ Exibição de Relatório
 
 <img width="1331" height="749" alt="image" src="https://github.com/user-attachments/assets/a84fdecc-9e97-4908-a697-076ea6f4de51" />
 
+## Temperature and Ice Cream Sales - Criação no Excel
+
+[Ice Cream Sales - temperatures.xlsx](https://github.com/user-attachments/files/27837888/Ice.Cream.Sales.-.temperatures.xlsx)
+
+<img width="1265" height="820" alt="image" src="https://github.com/user-attachments/assets/a8412879-86aa-4de9-b73b-221a5edd5f18" />
+
+
 
