@@ -84,6 +84,10 @@ site: https://dadosabertos.sp.gov.br/
 
 <img width="1087" height="688" alt="image" src="https://github.com/user-attachments/assets/c1b7b02e-2b36-4936-9e7e-f34e9706ac74" />
 
+## Curso Power BI - Escola do Trabalhador
+
+[Certificado Curso Power BI - Escola do Trabalhador.pdf](https://github.com/user-attachments/files/27838869/Certificado.Curso.Power.BI.-.Escola.do.Trabalhador.pdf)
+
 
 ## Introdução ao Power BI
 
