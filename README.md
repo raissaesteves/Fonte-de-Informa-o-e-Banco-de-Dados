@@ -88,6 +88,7 @@ site: https://dadosabertos.sp.gov.br/
 
 [Certificado Curso Power BI - Escola do Trabalhador.pdf](https://github.com/user-attachments/files/27838869/Certificado.Curso.Power.BI.-.Escola.do.Trabalhador.pdf)
 
+<img width="1113" height="792" alt="image" src="https://github.com/user-attachments/assets/cf64aaf9-2511-47d5-8d6c-dbcf257c8dc4" />
 
 ## Introdução ao Power BI
 
