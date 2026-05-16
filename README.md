@@ -114,5 +114,10 @@ Exibição de Relatório
 
 <img width="1265" height="820" alt="image" src="https://github.com/user-attachments/assets/a8412879-86aa-4de9-b73b-221a5edd5f18" />
 
+## Temperature and Ice Cream Sales - Criação no Colab
+
+<img width="915" height="555" alt="image" src="https://github.com/user-attachments/assets/3257f0cb-5269-40f9-b0ee-9458d30da8f0" />
+
+
 
 
