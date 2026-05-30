@@ -128,6 +128,9 @@ Exibição de Relatório
 
 <img width="1273" height="700" alt="image" src="https://github.com/user-attachments/assets/4838968b-3429-4313-a548-591087ec75dc" />
 
+### Tabela sobre a Taxa de Nupcialidade:
+
+<img width="1289" height="841" alt="image" src="https://github.com/user-attachments/assets/98d57f2e-1849-4205-b131-472ae77a9009" />
 
 
 
