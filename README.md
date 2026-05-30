@@ -123,6 +123,15 @@ Exibição de Relatório
 
 <img width="915" height="555" alt="image" src="https://github.com/user-attachments/assets/3257f0cb-5269-40f9-b0ee-9458d30da8f0" />
 
+## Prova dia 29/05
+### Tela interativa sobre taxa de Nupcialidade de São Paulo
+
+<img width="1273" height="700" alt="image" src="https://github.com/user-attachments/assets/4838968b-3429-4313-a548-591087ec75dc" />
+
+
+
+
+
 
 
 
