@@ -127,12 +127,15 @@ Exibição de Relatório
 ### Tela interativa sobre taxa de Nupcialidade de São Paulo
 
 <img width="1273" height="700" alt="image" src="https://github.com/user-attachments/assets/4838968b-3429-4313-a548-591087ec75dc" />
+Link para acesso do vídeo: https://drive.google.com/file/d/1B1XgfF-BkTBBdZSIekDKlIB2nIbppnng/view?usp=sharing
 
 ### Tabela sobre a Taxa de Nupcialidade:
 
 <img width="1289" height="841" alt="image" src="https://github.com/user-attachments/assets/98d57f2e-1849-4205-b131-472ae77a9009" />
 
 [nupcialidadee..xlsx](https://github.com/user-attachments/files/28414068/nupcialidadee.xlsx)
+
+
 
 
 
