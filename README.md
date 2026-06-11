@@ -96,7 +96,7 @@ site: https://dadosabertos.sp.gov.br/
 
 ## Introdução ao Power BI
 
-### Despesas da Prefeitura de São José dos Campos
+### Despesas da Prefeitura de São Paulo
 
 [Despesas.zip](https://github.com/user-attachments/files/27031712/Despesas.zip)
 
