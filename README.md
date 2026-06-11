@@ -36,23 +36,23 @@ site: https://dadosabertos.sp.gov.br/
 
 ### Planilha de Base:
 
-<img width="918" height="728" alt="Planilha 1" src="https://github.com/user-attachments/assets/f52a2fdd-bad4-4cf2-b928-a95de7e8a33b" />
+<img width="849" height="790" alt="Captura de tela 2026-06-11 193153" src="https://github.com/user-attachments/assets/160ea478-d185-475b-9f35-fd8e85e9a8d3" />
 
 ### Pergunta 1:
 
-<img width="968" height="224" alt="Planilha 2 - Pergunta 1" src="https://github.com/user-attachments/assets/62920fe8-6952-4c00-b746-5d3e0dc3c985" />
+<img width="912" height="270" alt="Captura de tela 2026-06-11 193317" src="https://github.com/user-attachments/assets/5ad709a2-97a2-4e7e-b24e-9d8dfd2293fb" />
 
 ### Pergunta 2:
 
-<img width="976" height="272" alt="Planilha 2 - Pergunta 2" src="https://github.com/user-attachments/assets/3bece7d1-ec4a-4f76-910c-94cc33e63235" />
+<img width="808" height="358" alt="Captura de tela 2026-06-11 193346" src="https://github.com/user-attachments/assets/9650149c-f76a-4706-91b0-7b19df23078f" />
 
 ### Pergunta 3:
 
-<img width="938" height="198" alt="Planilha 2 - Pergunta 3" src="https://github.com/user-attachments/assets/56dddf48-a622-4969-b222-0aaa384025ea" />
+<img width="627" height="231" alt="Captura de tela 2026-06-11 193410" src="https://github.com/user-attachments/assets/4fc8f173-b471-4f26-9fdd-fc914dcbfca2" />
 
 ### Pergunta 4:
 
-<img width="868" height="152" alt="Planilha 2 - Pergunta 4" src="https://github.com/user-attachments/assets/a1e7df08-f6eb-4e73-89b9-0f447e3684fb" />
+<img width="638" height="218" alt="Captura de tela 2026-06-11 193442" src="https://github.com/user-attachments/assets/97c0e45d-72ce-4138-a6cd-44fabcd2ee4c" />
 
 
 ## Certificado Curso Digital "Criando Trabalhos Acadêmicos com Ferramentas Digitais"
