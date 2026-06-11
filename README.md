@@ -137,6 +137,12 @@ Exibição de Relatório
 
 <img width="798" height="489" alt="WhatsApp Image 2026-06-11 at 15 23 50" src="https://github.com/user-attachments/assets/be2e8f31-afdd-4b6a-be05-c862571a75c8" />
 
+## Desenvolvimento de Dashboard para a prova
+Temperatura de Sorvete VS Cerveja
+
+<img width="1240" height="717" alt="image" src="https://github.com/user-attachments/assets/2ba91f4a-d72f-4e80-8215-546347e9b595" />
+
+
 ## Prova dia 29/05
 ### Tela interativa sobre taxa de Nupcialidade de São Paulo
 
