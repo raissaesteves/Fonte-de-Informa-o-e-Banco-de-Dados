@@ -20,9 +20,10 @@ Dados Balancete Receita de São José dos Campos
 
 [Balancete Receita.xlsx](https://github.com/user-attachments/files/26799219/Balancete.Receita.xlsx)
 
-<img width="1470" height="726" alt="Planilha 1" src="https://github.com/user-attachments/assets/dd2ed1e6-30f5-4958-a4b4-43f2f0d82f5d" />
+<img width="1416" height="858" alt="image" src="https://github.com/user-attachments/assets/18c50e55-a9da-4846-8f46-8c54dc13e183" />
 
-<img width="1576" height="716" alt="Planilha 2" src="https://github.com/user-attachments/assets/9053ec30-2489-420e-84d7-94d1c9ddae40" />
+<img width="1527" height="468" alt="image" src="https://github.com/user-attachments/assets/c8103723-0ef3-418e-89fc-2486abdb91f1" />
+
 
 Dados Balancete Despesas de São José dos Campos
 
