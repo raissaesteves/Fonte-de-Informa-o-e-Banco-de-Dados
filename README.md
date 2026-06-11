@@ -127,6 +127,14 @@ Exibição de Relatório
 
 <img width="915" height="555" alt="image" src="https://github.com/user-attachments/assets/3257f0cb-5269-40f9-b0ee-9458d30da8f0" />
 
+## Análise Consumo de cerveja - Criação no Excel
+
+<img width="1002" height="442" alt="WhatsApp Image 2026-06-11 at 15 22 25" src="https://github.com/user-attachments/assets/7d8093e4-6ba7-435b-98e6-fa215b5e97ad" />
+
+## Análise Consumo de Cerveja - Criação no Colab
+
+<img width="798" height="489" alt="WhatsApp Image 2026-06-11 at 15 23 50" src="https://github.com/user-attachments/assets/be2e8f31-afdd-4b6a-be05-c862571a75c8" />
+
 ## Prova dia 29/05
 ### Tela interativa sobre taxa de Nupcialidade de São Paulo
 
