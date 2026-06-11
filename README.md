@@ -24,6 +24,10 @@ Dados Balancete Receita de São José dos Campos
 
 <img width="1576" height="716" alt="Planilha 2" src="https://github.com/user-attachments/assets/9053ec30-2489-420e-84d7-94d1c9ddae40" />
 
+Dados Balancete Despesas de São José dos Campos
+
+<img width="884" height="609" alt="WhatsApp Image 2026-06-11 at 15 05 52" src="https://github.com/user-attachments/assets/1a305433-b129-4d20-a77c-5c3dcbbb3c22" />
+
 ## Formulaçao de Perguntas com base nos Dados Abertos do Estado de São Paulo.
 site: https://dadosabertos.sp.gov.br/
 
